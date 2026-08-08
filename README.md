@@ -176,7 +176,7 @@ The model was trained on 27 features. It takes categorical inputs like traffic l
 
 The frontend also includes a fallback estimator that mirrors the same logic using simple condition weights, so predictions are still available when the Flask backend is not running. Results from the backend are tagged with `"source": "model"`, while fallback results are tagged with `"source": "fallback"`.
 
-## Live Demo: https://lnkd.in/gkMgr_5D
+## Live Demo: https://flowtimeai.lovable.app/
 
 ---
 
